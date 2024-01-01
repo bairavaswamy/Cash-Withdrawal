@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  width: 45%;
+}
+.btn {
+  padding: 5px;
+  font-size: 20px;
+  width: 100%;
+  background-color: #382f5a;
+  border: 1px solid #c4c4c4;
+  color: #ffffff;
+  border-radius: 5px;
+  margin: 8px;
+  outline: none;
+  cursor: pointer;
+}
